@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1605819258 source:c:\users\usuario\documents\gabi - trabajos de escuela\algoritmo y estructura de datos\tpfinal\main.cpp
+	<iostream>
+	<string>
+	"zoopark.h"
+
+1605803832 c:\users\usuario\documents\gabi - trabajos de escuela\algoritmo y estructura de datos\tpfinal\zoopark.h
+
+1605811687 source:c:\users\usuario\documents\gabi - trabajos de escuela\algoritmo y estructura de datos\tpfinal\header.cpp
+	<iostream>
+	<string>
+	"zoopark.h"
+
